@@ -1,5 +1,14 @@
 {
   "expo": {
-    "sdkVersion": "25.0.0"
+   "name": "xcxerxes-30Day-example",
+   "version": "1.0.0",
+   "slug": "30day-slug",
+   "sdkVersion": "25.0.0",
+   "ios": {
+     "bundleIdentifier": "com.xcxerxes.30day"
+   },
+   "android": {
+     "package": "com.xcxerxes.30day"
+   }
   }
 }
