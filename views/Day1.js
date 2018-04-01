@@ -8,7 +8,7 @@ class WatchFace extends Component {
   }
   render () {
     return (
-      <View >
+      <View>
         <Text>{this.props.sectionTime}</Text>
         <Text>{this.props.totalTime}</Text>
       </View>
